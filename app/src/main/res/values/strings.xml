@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="currency_converter">Currency Converter</string>
+    <string name="currency">INR</string>
+    <string name="converted_currency">USD</string>
+    <string name="to">TO</string>
+    <string name="button_txt">CONVERT</string>
+    <string name="price">----</string>
+    <string name="hint">Eg:32</string>
+    <string name="todo">TODO</string>
+    <string name="this_is_image_button">this is image button</string>
+
+    <string-array name="currency_array">
+        <item>Select</item>
+        <item>INR</item>
+        <item>AUD</item>
+        <item>BRL</item>
+        <item>CAD</item>
+        <item>CNY</item>
+        <item>EUR</item>
+        <item>GBP</item>
+        <item>HKD</item>
+        <item>JPY</item>
+        <item>PLN</item>
+        <item>RUB</item>
+        <item>SEK</item>
+        <item>USD</item>
+        <item>ZAR</item>
+    </string-array>
+</resources>
